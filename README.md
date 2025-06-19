@@ -47,7 +47,7 @@ CREATE TABLE fines (id INT AUTO_INCREMENT, loan_id INT, amount DECIMAL(10,2), ..
 ## Installation
 1. Clone repo:
    >>bash
-   git clone https://github.com/yourusername/library-management.git
+   git clone https://github.com/tedwelld/Library-Management-System
   
 2. Import database:
    >>bash
