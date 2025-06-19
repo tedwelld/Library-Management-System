@@ -59,7 +59,7 @@ CREATE TABLE fines (id INT AUTO_INCREMENT, loan_id INT, amount DECIMAL(10,2), ..
    define('DB_PASS', '');
 
 4. Access via web server:
-   http://localhost/library-management/login.php
+   https://github.com/tedwelld/Library-Management-System
    
 # Roadmap
 -  Multi-librarian roles
