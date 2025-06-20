@@ -102,12 +102,12 @@ requireAuth();
         <div class="sidebar">
             <h2>Library Admin</h2>
             <ul>
-                <li><a href="dashboard.html" class="active">Dashboard</a></li>
-                <li><a href="members.html">Members</a></li>
-                <li><a href="books.html">Books</a></li>
-                <li><a href="loans.html">Loans</a></li>
-                <li><a href="fines.html">Fines</a></li>
-                <li><a href="reports.html">Reports</a></li>
+                <li><a href="dashboard.php" class="active">Dashboard</a></li>
+                <li><a href="members.php">Members</a></li>
+                <li><a href="books.php">Books</a></li>
+                <li><a href="loans.php">Loans</a></li>
+                <li><a href="fines.php">Fines</a></li>
+                <li><a href="reports.php">Reports</a></li>
             </ul>
         </div>
         <div class="main-content">
