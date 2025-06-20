@@ -27,8 +27,8 @@ function logout() {
 }
 
 function requireAuth() {
-    if (!isLoggedIn()) {
-        header('Location: login.php');
+    if (isLoggedIn()) {
+        header('Location: dashboard.php');
         exit();
     }
 }
