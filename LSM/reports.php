@@ -59,8 +59,7 @@ $allMembers = $stmt->fetchAll();
     <title>Library Management - Reports</title>
 
      <style>
-        /* Previous styles from fines.php */
-        /* Add reports-specific styles */
+       
 
         body {
             font-family: Arial, sans-serif;
